@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal project<br>🤝 I’m looking for help improving my code make it better <br>🌱 I’m currently learning AI + MERN STACK<br>### 💬 Ask me about<br>- 🧠 AI Assistant Projects<br>- ⚙️ Full-Stack Dev (MERN, REST APIs)<br>- 🌌 Space + Quantum Love<br>- 🛡️ Cybersecurity + Kali Linux<br>- 👨‍💻 My custom AI and hina<br><br>⚡ Fun fact : “I’m 16 — still figuring life out, but already coding like it’s my first language.”<br>
+🔭 I’m currently working on personal project<br>🤝 I’m looking for help improving my code make it better <br>🌱 I’m currently learning AI + MERN STACK<br>### 💬 Ask me about<br>- 🧠 AI Assistant Projects<br>- ⚙️ Full-Stack Dev (MERN, REST APIs)<br>- 🌌 Space + Quantum Love<br>- 🛡️ Cybersecurity + Kali Linux<br>- 👨‍💻 My custom AI and hina<br><br>⚡ Fun fact : “I’m 17 — still figuring life out, but already coding like it’s my first language.”<br>
 
 
 ## 🌐 Socials:
